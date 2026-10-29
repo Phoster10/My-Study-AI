@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" font-family="Helvetica,Arial,sans-serif"><title>Home / dashboard</title>
+<rect width="960" height="600" fill="#fff"/>
+<rect x="0" y="0" width="960" height="600" rx="0" fill="#f6f6f6" stroke="#ddd" stroke-width="1.5"/>
+<rect x="0" y="0" width="200" height="600" rx="0" fill="#fff" stroke="#ddd" stroke-width="1.5"/>
+<text x="20" y="36" font-size="17" font-weight="700" fill="#222" text-anchor="start">Study AI</text>
+<text x="20" y="52" font-size="10" font-weight="normal" fill="#888" text-anchor="start">Smarter Notes. Higher Goals.</text>
+<rect x="12" y="80" width="176" height="34" rx="6" fill="#e4e4e4" stroke="#999" stroke-width="1.5"/>
+<text x="30" y="102" font-size="13" font-weight="600" fill="#222" text-anchor="start">Home</text>
+<text x="30" y="144" font-size="13" font-weight="normal" fill="#222" text-anchor="start">XP</text>
+<text x="30" y="186" font-size="13" font-weight="normal" fill="#222" text-anchor="start">History</text>
+<rect x="12" y="530" width="176" height="50" rx="6" fill="#f6f6f6" stroke="#ccc" stroke-width="1.5"/>
+<text x="24" y="558" font-size="10" font-weight="normal" fill="#777" text-anchor="start">Small steps create big results.</text>
+<rect x="200" y="0" width="760" height="56" rx="0" fill="#fff" stroke="#ddd" stroke-width="1.5"/>
+<rect x="220" y="12" width="380" height="32" rx="5" fill="#fafafa" stroke="#999" stroke-width="1.5"/>
+<text x="230" y="32.0" font-size="12" font-weight="normal" fill="#888" text-anchor="start">Ask AI about any topic...   Ctrl + K</text>
+<rect x="790" y="14" width="28" height="28" rx="14" fill="#fff" stroke="#888" stroke-width="1.5"/>
+<text x="804" y="33" font-size="12" font-weight="normal" fill="#888" text-anchor="middle">•</text>
+<rect x="830" y="10" width="110" height="36" rx="18" fill="#fff" stroke="#888" stroke-width="1.5"/>
+<rect x="836" y="16" width="24" height="24" rx="12" fill="#ccc" stroke="#888" stroke-width="1.5"/>
+<text x="850" y="33" font-size="9" font-weight="600" fill="#333" text-anchor="middle">PH</text>
+<text x="866" y="33" font-size="11" font-weight="normal" fill="#222" text-anchor="start">name ▾</text>
+<rect x="224" y="70" width="712" height="48" rx="8" fill="#fff" stroke="#888" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="240" y="90" font-size="11" font-weight="600" fill="#222" text-anchor="start">AI answer from the search bar (SearchResults) — only shown after a search</text>
+<rect x="240" y="100" width="396.0" height="5" rx="2" fill="#ccc"/>
+<rect x="224" y="134" width="300" height="150" rx="8" fill="#fff" stroke="#888" stroke-width="1.5"/>
+<text x="240" y="158" font-size="14" font-weight="700" fill="#222" text-anchor="start">Choose Summary Type</text>
+<text x="240" y="174" font-size="10" font-weight="normal" fill="#777" text-anchor="start">Select how to summarize your notes.</text>
+<rect x="240" y="188" width="128" height="36" rx="6" fill="#fafafa" stroke="#888" stroke-width="1.5"/>
+<rect x="248" y="200" width="12" height="12" rx="6" fill="#fff" stroke="#666" stroke-width="1.5"/>
+<text x="268" y="211" font-size="11" font-weight="normal" fill="#222" text-anchor="start">Bullet Points</text>
+<rect x="376" y="188" width="128" height="36" rx="6" fill="#fafafa" stroke="#888" stroke-width="1.5"/>
+<rect x="384" y="200" width="12" height="12" rx="6" fill="#fff" stroke="#666" stroke-width="1.5"/>
+<text x="404" y="211" font-size="11" font-weight="normal" fill="#222" text-anchor="start">Short Summary</text>
+<rect x="240" y="232" width="128" height="36" rx="6" fill="#fafafa" stroke="#888" stroke-width="1.5"/>
+<rect x="248" y="244" width="12" height="12" rx="6" fill="#fff" stroke="#666" stroke-width="1.5"/>
+<text x="268" y="255" font-size="11" font-weight="normal" fill="#222" text-anchor="start">AI Summary</text>
+<rect x="376" y="232" width="128" height="36" rx="6" fill="#fafafa" stroke="#888" stroke-width="1.5"/>
+<rect x="384" y="244" width="12" height="12" rx="6" fill="#fff" stroke="#666" stroke-width="1.5"/>
+<text x="404" y="255" font-size="11" font-weight="normal" fill="#222" text-anchor="start">Flashcards</text>
+<rect x="224" y="298" width="300" height="230" rx="8" fill="#fff" stroke="#888" stroke-width="1.5"/>
+<text x="240" y="322" font-size="14" font-weight="700" fill="#222" text-anchor="start">Upload or paste your notes</text>
+<rect x="240" y="334" width="210" height="28" rx="6" fill="#fff" stroke="#444" stroke-width="1.5"/>
+<text x="345.0" y="352.0" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Choose file (PDF/DOCX/TXT)</text>
+<rect x="240" y="374" width="268" height="90" rx="5" fill="#fafafa" stroke="#999" stroke-width="1.5"/>
+<text x="250" y="394" font-size="11" font-weight="normal" fill="#888" text-anchor="start">Paste text here… (max 10,000 chars)</text>
+<rect x="240" y="476" width="268" height="32" rx="6" fill="#444" stroke="#444" stroke-width="1.5"/>
+<text x="374.0" y="496.0" font-size="12" font-weight="600" fill="#fff" text-anchor="middle">Generate</text>
+<rect x="540" y="134" width="396" height="394" rx="8" fill="#fff" stroke="#888" stroke-width="1.5"/>
+<text x="556" y="158" font-size="14" font-weight="700" fill="#222" text-anchor="start">Your summary / flashcards</text>
+<rect x="556" y="178" width="360" height="5" rx="2" fill="#ccc"/>
+<rect x="556" y="192" width="360" height="5" rx="2" fill="#ccc"/>
+<rect x="556" y="206" width="360" height="5" rx="2" fill="#ccc"/>
+<rect x="556" y="220" width="360" height="5" rx="2" fill="#ccc"/>
+<rect x="556" y="234" width="360" height="5" rx="2" fill="#ccc"/>
+<rect x="556" y="248" width="360" height="5" rx="2" fill="#ccc"/>
+<rect x="556" y="262" width="360" height="5" rx="2" fill="#ccc"/>
+<rect x="556" y="276" width="216.0" height="5" rx="2" fill="#ccc"/>
+<rect x="556" y="304" width="230" height="28" rx="5" fill="#fafafa" stroke="#999" stroke-width="1.5"/>
+<text x="566" y="322.0" font-size="12" font-weight="normal" fill="#888" text-anchor="start">Title</text>
+<rect x="796" y="304" width="120" height="28" rx="6" fill="#fff" stroke="#444" stroke-width="1.5"/>
+<text x="856.0" y="322.0" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Save to History</text>
+<rect x="556" y="350" width="360" height="150" rx="4" fill="#f0f0f0" stroke="#aaa" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="736.0" y="429.0" font-size="12" font-weight="normal" fill="#777" text-anchor="middle">flashcard deck (click to flip · shuffle · step)</text>
+<text x="556" y="518" font-size="11" font-weight="normal" fill="#a33" text-anchor="start">Empty state: “Your summary will appear here” + 3 feature tips</text>
+</svg>

@@ -1,0 +1,36 @@
+# Runs the whole app: SPA (nginx) + API (node).
+# Usage: cp .env.example .env                  # frontend build values (public)
+#        cp backend/.env.example backend/.env  # backend secrets (never commit)
+#        docker compose up --build
+# Then open http://localhost:8080  (API: http://localhost:4000/health)
+services:
+  backend:
+    build: ./backend
+    container_name: study-ai-backend
+    env_file: ./backend/.env
+    environment:
+      PORT: 4000
+      CORS_ORIGIN: http://localhost:8080
+    ports:
+      - "4000:4000"
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:4000/health"]
+      interval: 15s
+      timeout: 5s
+      retries: 3
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+      args:
+        VITE_API_URL: http://localhost:4000
+        VITE_SUPABASE_URL: ${VITE_SUPABASE_URL:?Set VITE_SUPABASE_URL in .env (copy .env.example)}
+        VITE_SUPABASE_ANON_KEY: ${VITE_SUPABASE_ANON_KEY:?Set VITE_SUPABASE_ANON_KEY in .env (copy .env.example)}
+    container_name: study-ai-frontend
+    depends_on:
+      backend:
+        condition: service_healthy
+    ports:
+      - "8080:80"
+    restart: unless-stopped

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" font-family="Helvetica,Arial,sans-serif"><title>Landing page</title>
+<rect width="960" height="600" fill="#fff"/>
+<rect x="0" y="0" width="960" height="600" rx="0" fill="#f6f6f6" stroke="#ddd" stroke-width="1.5"/>
+<rect x="0" y="0" width="960" height="52" rx="0" fill="#fff" stroke="#ddd" stroke-width="1.5"/>
+<text x="30" y="32" font-size="16" font-weight="700" fill="#222" text-anchor="start">Study AI</text>
+<text x="820" y="32" font-size="13" font-weight="normal" fill="#222" text-anchor="start">Log in</text>
+<rect x="870" y="14" width="70" height="26" rx="6" fill="#444" stroke="#444" stroke-width="1.5"/>
+<text x="905.0" y="31.0" font-size="12" font-weight="600" fill="#fff" text-anchor="middle">Sign up</text>
+<text x="480.0" y="130" font-size="12" font-weight="normal" fill="#666" text-anchor="middle">AI-powered studying</text>
+<text x="480.0" y="180" font-size="30" font-weight="700" fill="#222" text-anchor="middle">Turn your notes into a study loop</text>
+<rect x="210" y="205" width="540" height="5" rx="2" fill="#ccc"/>
+<rect x="210" y="219" width="324.0" height="5" rx="2" fill="#ccc"/>
+<rect x="340" y="260" width="150" height="40" rx="6" fill="#444" stroke="#444" stroke-width="1.5"/>
+<text x="415.0" y="284.0" font-size="12" font-weight="600" fill="#fff" text-anchor="middle">Get started →</text>
+<rect x="510" y="260" width="110" height="40" rx="6" fill="#fff" stroke="#444" stroke-width="1.5"/>
+<text x="565.0" y="284.0" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Log in</text>
+<text x="60" y="350" font-size="11" font-weight="600" fill="#777" text-anchor="start">HOW IT WORKS</text>
+<rect x="60" y="365" width="200" height="120" rx="8" fill="#fff" stroke="#888" stroke-width="1.5"/>
+<rect x="74" y="378" width="28" height="28" rx="14" fill="#ddd" stroke="#999" stroke-width="1.5"/>
+<text x="74" y="430" font-size="12" font-weight="700" fill="#222" text-anchor="start">Step 01  Ingest</text>
+<rect x="74" y="442" width="170" height="5" rx="2" fill="#ccc"/>
+<rect x="74" y="454" width="170" height="5" rx="2" fill="#ccc"/>
+<rect x="74" y="466" width="102.0" height="5" rx="2" fill="#ccc"/>
+<rect x="280" y="365" width="200" height="120" rx="8" fill="#fff" stroke="#888" stroke-width="1.5"/>
+<rect x="294" y="378" width="28" height="28" rx="14" fill="#ddd" stroke="#999" stroke-width="1.5"/>
+<text x="294" y="430" font-size="12" font-weight="700" fill="#222" text-anchor="start">Step 02  Summarize</text>
+<rect x="294" y="442" width="170" height="5" rx="2" fill="#ccc"/>
+<rect x="294" y="454" width="170" height="5" rx="2" fill="#ccc"/>
+<rect x="294" y="466" width="102.0" height="5" rx="2" fill="#ccc"/>
+<rect x="500" y="365" width="200" height="120" rx="8" fill="#fff" stroke="#888" stroke-width="1.5"/>
+<rect x="514" y="378" width="28" height="28" rx="14" fill="#ddd" stroke="#999" stroke-width="1.5"/>
+<text x="514" y="430" font-size="12" font-weight="700" fill="#222" text-anchor="start">Step 03  Practice</text>
+<rect x="514" y="442" width="170" height="5" rx="2" fill="#ccc"/>
+<rect x="514" y="454" width="170" height="5" rx="2" fill="#ccc"/>
+<rect x="514" y="466" width="102.0" height="5" rx="2" fill="#ccc"/>
+<rect x="720" y="365" width="200" height="120" rx="8" fill="#fff" stroke="#888" stroke-width="1.5"/>
+<rect x="734" y="378" width="28" height="28" rx="14" fill="#ddd" stroke="#999" stroke-width="1.5"/>
+<text x="734" y="430" font-size="12" font-weight="700" fill="#222" text-anchor="start">Step 04  Level up</text>
+<rect x="734" y="442" width="170" height="5" rx="2" fill="#ccc"/>
+<rect x="734" y="454" width="170" height="5" rx="2" fill="#ccc"/>
+<rect x="734" y="466" width="102.0" height="5" rx="2" fill="#ccc"/>
+<rect x="60" y="510" width="840" height="64" rx="8" fill="#fff" stroke="#888" stroke-width="1.5"/>
+<text x="84" y="538" font-size="15" font-weight="700" fill="#222" text-anchor="start">Ready to study smarter?</text>
+<text x="84" y="558" font-size="11" font-weight="normal" fill="#666" text-anchor="start">✓ Free to start   ✓ Works with your own notes</text>
+<rect x="700" y="526" width="180" height="34" rx="6" fill="#444" stroke="#444" stroke-width="1.5"/>
+<text x="790.0" y="547.0" font-size="12" font-weight="600" fill="#fff" text-anchor="middle">Create your account →</text>
+</svg>

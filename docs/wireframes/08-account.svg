@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" font-family="Helvetica,Arial,sans-serif"><title>Account page</title>
+<rect width="960" height="600" fill="#fff"/>
+<rect x="0" y="0" width="960" height="600" rx="0" fill="#f6f6f6" stroke="#ddd" stroke-width="1.5"/>
+<rect x="0" y="0" width="200" height="600" rx="0" fill="#fff" stroke="#ddd" stroke-width="1.5"/>
+<text x="20" y="36" font-size="17" font-weight="700" fill="#222" text-anchor="start">Study AI</text>
+<text x="20" y="52" font-size="10" font-weight="normal" fill="#888" text-anchor="start">Smarter Notes. Higher Goals.</text>
+<text x="30" y="102" font-size="13" font-weight="normal" fill="#222" text-anchor="start">Home</text>
+<text x="30" y="144" font-size="13" font-weight="normal" fill="#222" text-anchor="start">XP</text>
+<text x="30" y="186" font-size="13" font-weight="normal" fill="#222" text-anchor="start">History</text>
+<rect x="12" y="530" width="176" height="50" rx="6" fill="#f6f6f6" stroke="#ccc" stroke-width="1.5"/>
+<text x="24" y="558" font-size="10" font-weight="normal" fill="#777" text-anchor="start">Small steps create big results.</text>
+<rect x="200" y="0" width="760" height="56" rx="0" fill="#fff" stroke="#ddd" stroke-width="1.5"/>
+<rect x="220" y="12" width="380" height="32" rx="5" fill="#fafafa" stroke="#999" stroke-width="1.5"/>
+<text x="230" y="32.0" font-size="12" font-weight="normal" fill="#888" text-anchor="start">Ask AI about any topic...   Ctrl + K</text>
+<rect x="790" y="14" width="28" height="28" rx="14" fill="#fff" stroke="#888" stroke-width="1.5"/>
+<text x="804" y="33" font-size="12" font-weight="normal" fill="#888" text-anchor="middle">•</text>
+<rect x="830" y="10" width="110" height="36" rx="18" fill="#fff" stroke="#888" stroke-width="1.5"/>
+<rect x="836" y="16" width="24" height="24" rx="12" fill="#ccc" stroke="#888" stroke-width="1.5"/>
+<text x="850" y="33" font-size="9" font-weight="600" fill="#333" text-anchor="middle">PH</text>
+<text x="866" y="33" font-size="11" font-weight="normal" fill="#222" text-anchor="start">name ▾</text>
+<text x="224" y="92" font-size="20" font-weight="700" fill="#222" text-anchor="start">Account Details</text>
+<rect x="224" y="108" width="712" height="110" rx="8" fill="#fff" stroke="#888" stroke-width="1.5"/>
+<text x="240" y="132" font-size="14" font-weight="700" fill="#222" text-anchor="start">Username</text>
+<text x="240" y="156" font-size="11" font-weight="normal" fill="#666" text-anchor="start">Signed in as you@example.com</text>
+<rect x="240" y="166" width="420" height="34" rx="5" fill="#fafafa" stroke="#999" stroke-width="1.5"/>
+<text x="250" y="187.0" font-size="12" font-weight="normal" fill="#888" text-anchor="start">Username</text>
+<rect x="680" y="166" width="110" height="34" rx="6" fill="#444" stroke="#444" stroke-width="1.5"/>
+<text x="735.0" y="187.0" font-size="12" font-weight="600" fill="#fff" text-anchor="middle">Save</text>
+<rect x="224" y="234" width="712" height="150" rx="8" fill="#fff" stroke="#888" stroke-width="1.5"/>
+<text x="240" y="258" font-size="14" font-weight="700" fill="#222" text-anchor="start">Password</text>
+<rect x="240" y="270" width="300" height="34" rx="5" fill="#fafafa" stroke="#999" stroke-width="1.5"/>
+<text x="250" y="291.0" font-size="12" font-weight="normal" fill="#888" text-anchor="start">New password</text>
+<rect x="560" y="270" width="300" height="34" rx="5" fill="#fafafa" stroke="#999" stroke-width="1.5"/>
+<text x="570" y="291.0" font-size="12" font-weight="normal" fill="#888" text-anchor="start">Confirm password</text>
+<rect x="240" y="326" width="120" height="34" rx="6" fill="#444" stroke="#444" stroke-width="1.5"/>
+<text x="300.0" y="347.0" font-size="12" font-weight="600" fill="#fff" text-anchor="middle">Update</text>
+<text x="224" y="420" font-size="11" font-weight="normal" fill="#a33" text-anchor="start">Delete account is in the top-bar avatar menu (with confirmation), not on this page.</text>
+<text x="224" y="70" font-size="12" font-weight="normal" fill="#555" text-anchor="start">← Back</text>
+</svg>
