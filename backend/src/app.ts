@@ -8,6 +8,7 @@ import { xpRouter } from "./routes/xp.js";
 import { searchRouter } from "./routes/search.js";
 import { summariesRouter } from "./routes/summaries.js";
 import { accountRouter } from "./routes/account.js";
+import { reviewRouter } from "./routes/review.js";
 import { errorHandler } from "./middleware/errorHandler.js";
 
 /** Builds the Express app without starting a listener, so integration
@@ -27,6 +28,7 @@ export function createApp() {
   app.use("/api/search", searchRouter);
   app.use("/api/summaries", summariesRouter);
   app.use("/api/account", accountRouter);
+  app.use("/api/review", reviewRouter);
 
   app.use(errorHandler);
   return app;

@@ -93,6 +93,11 @@ export const api = {
   gradeExam: (exam: ExamQuestion[], userAnswers: Record<string, string>) =>
     request<GradingReport>("/api/exam/grade", { method: "POST", body: JSON.stringify({ exam, userAnswers }) }),
 
+  dueTopics: () => request<{ due: Array<{ topic: string; nextReviewDate: number }> }>("/api/review/due"),
+
+  submitReview: (topic: string, isCorrect: boolean) =>
+    request<{ topic: string }>("/api/review/submit", { method: "POST", body: JSON.stringify({ topic, isCorrect }) }),
+
   getXP: () => request<{ xp: number }>("/api/xp"),
 
   addXP: (amount: number) => request<{ success: boolean; xp: number }>("/api/xp/update", { method: "POST", body: JSON.stringify({ amount }) }),
