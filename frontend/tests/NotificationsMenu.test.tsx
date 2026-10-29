@@ -1,6 +1,10 @@
-import { describe, it, expect, beforeEach } from "vitest";
+import { describe, it, expect, beforeEach, vi } from "vitest";
 import { render, screen, fireEvent } from "@testing-library/react";
 import { NotificationsMenu } from "../src/components/NotificationsMenu";
+
+// NotificationsMenu imports useDailyGoals -> api client -> Supabase, which
+// throws at import time when VITE_SUPABASE_URL is unset (as in CI).
+vi.mock("../src/api/client", () => ({ api: {} }));
 
 beforeEach(() => localStorage.clear());
 
